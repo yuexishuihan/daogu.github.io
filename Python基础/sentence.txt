@@ -1,0 +1,4 @@
+    I love learning python
+    beacuse python is fun
+    and also easy to use
+    

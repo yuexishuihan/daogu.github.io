@@ -1,0 +1,5 @@
+管理员
+user:daogu
+pssd:1qaz2wsx;
+url: 127.0.0.1:8000/admin
+主页http://127.0.0.1:8000/article/article-list/
